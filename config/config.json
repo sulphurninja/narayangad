@@ -1,0 +1,60 @@
+{
+  "site": {
+    "title": "Shri Kshetra Narayangad",
+    "base_url": "/",
+    "favicon": "/images/logo.png",
+    "logo": "/images/logo.png",
+    "logo_white": "/images/logo.png",
+    "logo_width": "140",
+    "logo_height": "70",
+    "logo_text": "Narayan Gad"
+  },
+  "settings": {
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 6,
+    "InnerPaginationOptions": {
+      "enableTop": false,
+      "enableBottom": true
+    },
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+  "params": {
+    "tag_manager_id": "",
+    "footer_content": "Shri Kshetra Narayangad",
+    "copyright": "Shri Kshetra Narayangad"
+  },
+  "metadata": {
+    "meta_author": "Shri Kshetra Narayangad",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Shri Kshetra Narayangad"
+  },
+  "widgets": {
+    "about": {
+      "enable": true,
+      "content": "Shri Kshetra Narayangad"
+    },
+    "featured_posts": {
+      "enable": true,
+      "title": "Blog Categories",
+      "showPost": 3
+    },
+    "categories": {
+      "enable": true,
+      "title": "Blog Categories"
+    },
+    "newsletter": {
+      "enable": true,
+      "title": "वृत्तपत्र",
+      "content": "",
+      "privacy_policy_page": "#",
+      "malichipm_url": ""
+    }
+  },
+  "disqus": {
+    "enable": false,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}
